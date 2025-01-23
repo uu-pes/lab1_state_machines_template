@@ -122,8 +122,8 @@ Hints: You may have to include something in CMakeLists.txt for this!
 If you are done with all the mandatory parts (well done BTW!), here are some optional things to try.
 
 <ol>
-<li> Use `printf` statements and monitor the printed output in a console.</li>
-<li> Debug your code! You can use the setup for debugging also to program the device without having to disconnect/connect it from the USB port!</li>
+<li> Use `printf` statements and view the printed output in a console.</li>
+<li> Debug your code (see Debugging section)! You can use the setup for debugging also to program the device without having to disconnect/connect it from the USB port!</li>
 <li> Build everything from the terminal without using the **VSCode** extension.
-This will come in handy next lab when we will switch do a different SDK.</li>
+This will come in handy next lab when we will no longer use Pico SDK, but Zephyr.</li>
 </ol>
